@@ -1,0 +1,28 @@
+* {
+    background-color: #FCEDDA;
+    font-family: Verdana, "DejaVu Sans", sans-serif
+}
+
+img {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.heading {
+    text-align: center;
+    color: #EE4E34
+}
+
+.sub-heading {
+    text-align: center;
+    font-weight: bold;
+    color: #EE4E34
+}
+
+.boxed {
+    border: 1px solid green;
+    width: 25;
+  }
